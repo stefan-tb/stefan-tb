@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Stefan - aka [fps][website] 👋
+
+Software developer
+
+<img src="https://github-readme-stats.vercel.app/api?username=stefan-tb&show_icons=true&theme=tokyonight" alt="stefan-tb" />
 
 <!--
 **stefan-tb/stefan-tb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
