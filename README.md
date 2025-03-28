@@ -1,6 +1,6 @@
 ### Hi there, I'm Stefan - aka [fps][website] 👋
 
-Software developer
+Senior Software developer
 
 <img src="https://github-readme-stats.vercel.app/api?username=stefan-tb&show_icons=true&theme=tokyonight" alt="stefan-tb" />
 
