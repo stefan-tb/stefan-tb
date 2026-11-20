@@ -22,7 +22,7 @@ I build reliable software across the stack and treat performance as a feature.
 
 ### About me
 - 👯 I’m looking to collaborate on deeply technical problems
-- 💬 Languages: German and English, some French, little Russian
+- 💬 Languages: German (native), English (fluent), French (basic), Russian (a little)
 - 📫 How to reach me: check the company’s website
 - ⚡ Fun fact: I started coding on an Olympia Boss
 
