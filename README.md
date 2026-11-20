@@ -1,10 +1,12 @@
-### Hi there, I'm Stefan - aka [fps][website] 👋
+## Hi there, I'm Stefan - aka [fps][website] 👋
 
-Senior Software developer
+Founder & Senior .NET Developer at twobrains GmbH.
+
+I build reliable software across the stack and treat performance as a feature. 
 
 <img src="https://github-readme-stats.vercel.app/api?username=stefan-tb&show_icons=true&theme=tokyonight" alt="stefan-tb" />
 
-#### 🔗 Links
+### 🔗 Links
 
 <p align="center">
 
@@ -17,6 +19,13 @@ Senior Software developer
 [<img src="https://img.shields.io/badge/Stack Overflow%20-%23FE7A16.svg?&style=for-the-badge&logo=StackOverflow&logoColor=white"/>][stackoverflow] -->
 
 </p>
+
+### About me
+- 👯 I’m looking to collaborate on deeply technical problems
+- 💬 Languages: German and English, some French, little Russian
+- 📫 How to reach me: check the company’s website
+- ⚡ Fun fact: I started coding on an Olympia Boss
+
 
 <!--
 **stefan-tb/stefan-tb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
