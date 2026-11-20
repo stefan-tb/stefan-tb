@@ -1,6 +1,6 @@
 ## Hi there, I'm Stefan - aka [fps][website] 👋
 
-Founder & Senior .NET Developer at twobrains GmbH.
+Founder & Senior C++ / .NET Developer at twobrains GmbH.
 
 I build reliable software across the stack and treat performance as a feature. 
 
